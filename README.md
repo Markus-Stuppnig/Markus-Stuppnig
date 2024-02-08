@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Markus</h1>
-<h3 align="center">Join me building wonderful software.</h3>
+<h3 align="center">Simplicity is key.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markus-stuppnig&label=Profile%20views&color=0e75b6&style=flat" alt="markus-stuppnig" /> </p>
 
