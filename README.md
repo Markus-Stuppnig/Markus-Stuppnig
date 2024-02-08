@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://www.stuppnig.net/)
 
-- 🌱 I’m currently learning about **cloud computing, next's, flutter**
+- 🌱 I’m currently learning about **cloud computing and cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://www.stuppnig.net/projects/](https://www.stuppnig.net/projects/)
 
